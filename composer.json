@@ -1,0 +1,7 @@
+{
+    "name": "suetin/rs-csv-importer",
+    "description": "Alternative CSV Importer plugin. Simple and powerful, best for geeks.",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "require": {}
+}
